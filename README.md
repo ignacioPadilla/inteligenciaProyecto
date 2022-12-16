@@ -1,2 +1,2 @@
 # inteligenciaProyecto
-Repositorio con codigos de proyecto inteligencia. Hay que correr en orden e codigo, y lo que puede producir problemas son los path de los datos que va a depender de como los guarde la persona
+Repositorio con codigos de proyecto inteligencia. Los nuevos codigos son los de que dicen red final  y el otro codigo es sobre los experimentos hecos
